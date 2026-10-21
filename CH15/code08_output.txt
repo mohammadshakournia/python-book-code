@@ -1,0 +1,2 @@
+Keys of iris_dataset:
+dict_keys(['target_names', 'feature_names', 'DESCR', 'data', 'target'])

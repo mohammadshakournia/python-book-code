@@ -1,0 +1,3 @@
+ready
+got: A
+got: B

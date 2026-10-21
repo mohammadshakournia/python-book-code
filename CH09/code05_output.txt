@@ -1,0 +1,6 @@
+Calling add with args=(2, 5), kwargs={}
+add returned 7
+add result: 7
+Calling join_words with args=('Hello', 'World'), kwargs={'sep': '-'}
+join_words returned Hello-World
+join result: Hello-World

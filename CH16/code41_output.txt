@@ -1,0 +1,2 @@
+Feature counts:
+{0: array([0, 1, 0, 2]), 1: array([2, 0, 2, 1])}

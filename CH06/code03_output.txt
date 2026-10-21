@@ -1,0 +1,5 @@
+File content:
+Hello from Python
+This file is created by Python
+End of file
+This line is appended

@@ -1,0 +1,4 @@
+Function name: greet
+Docstring: Say hello to someone.
+Calling greet
+Hello, Sara!

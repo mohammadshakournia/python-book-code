@@ -1,0 +1,2 @@
+Coefficient shape:  (3, 2)
+Intercept shape:  (3,)

@@ -1,0 +1,5 @@
+      city city_clean
+0   Tehran     tehran
+1  tehran      tehran
+2   TEHRAN     tehran
+3   Tabriz     Tabriz

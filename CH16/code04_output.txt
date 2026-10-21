@@ -1,0 +1,1 @@
+Shape of cancer data: (569, 30)

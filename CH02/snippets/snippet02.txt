@@ -1,0 +1,2 @@
+2score = 90
+user name = "Ali"

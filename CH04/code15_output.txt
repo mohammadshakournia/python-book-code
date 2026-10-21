@@ -1,0 +1,10 @@
+base = (3, 1, 4, 1, 5)
+len(base) -> 5
+sorted(base) -> [1, 1, 3, 4, 5]
+min(base) -> 1
+max(base) -> 5
+sum(base) -> 14
+base.count(1) -> 2
+base.index(4) -> 2
+tuple(text) -> ('P', 'y', 't', 'h', 'o', 'n')
+list(base) after append -> [3, 1, 4, 1, 5, 9]

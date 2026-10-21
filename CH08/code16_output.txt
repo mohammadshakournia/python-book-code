@@ -1,0 +1,13 @@
+Enter your age: hello
+Age must be an integer.
+
+Enter your age: 200
+Age error: Age must be between 0 and 120.
+
+Enter your age: 25
+Enter your password: abc
+Password error: Password must be at least 8 characters.
+
+Enter your age: 25
+Enter your password: StrongPass1
+Registration successful.

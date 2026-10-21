@@ -1,0 +1,5 @@
+city
+Shiraz     84500.0
+Tabriz     85000.0
+Tehran    135000.0
+Name: price, dtype: float64

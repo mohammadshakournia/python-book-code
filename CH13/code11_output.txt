@@ -1,0 +1,9 @@
+0    False
+1    False
+2     True
+3    False
+dtype: bool
+   name    city
+0   Ali  Tehran
+1  Sara  Tabriz
+3  Mina  Tehran

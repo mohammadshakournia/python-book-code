@@ -1,0 +1,3 @@
+2    30
+3    40
+Name: scores, dtype: int64

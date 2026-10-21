@@ -1,0 +1,5 @@
+Enter your age: -1
+Traceback (most recent call last):
+  File "C:\Users\python-book\ch08\code11.py", line 3, in <module>
+    raise ValueError("Age cannot be negative.")
+ValueError: Age cannot be negative.

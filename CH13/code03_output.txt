@@ -1,0 +1,5 @@
+   name  age    city
+0   Ali   23  Tehran
+1  Sara   19  Tabriz
+2  Reza   31  Shiraz
+3  Mina   27  Tehran

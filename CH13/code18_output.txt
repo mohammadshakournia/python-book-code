@@ -1,0 +1,5 @@
+        count      mean     max
+city
+Shiraz       2   84500.0   99000
+Tabriz       1   85000.0   85000
+Tehran       2  135000.0  150000

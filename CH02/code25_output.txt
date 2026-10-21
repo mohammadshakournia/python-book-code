@@ -1,0 +1,2 @@
+Do you agree? (yes/no): yes
+True

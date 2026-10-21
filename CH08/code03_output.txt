@@ -1,0 +1,5 @@
+Enter a number: 0
+Traceback (most recent call last):
+  File "C:\Users\python-book\ch08\code03.py", line 2, in <module>
+    print(10 / x)
+ZeroDivisionError: division by zero

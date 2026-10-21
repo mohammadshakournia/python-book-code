@@ -1,0 +1,4 @@
+1000
+Not enough balance
+Deposit successful
+1500

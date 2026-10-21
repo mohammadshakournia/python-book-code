@@ -1,0 +1,10 @@
+    Name  Location  Age
+0   John  New York   24
+1   Anna     Paris   13
+2  Peter    Berlin   53
+3  Linda    London   33
+
+Age > 30:
+    Name Location  Age
+2  Peter   Berlin   53
+3  Linda   London   33

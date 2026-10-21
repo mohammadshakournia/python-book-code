@@ -1,0 +1,14 @@
+   order_id   price    city
+0      1001  120000  Tehran
+1      1002   85000  Tabriz
+2      1003   99000  Tehran
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 3 entries, 0 to 2
+Data columns (total 3 columns):
+ #   Column    Non-Null Count  Dtype
+---  ------    --------------  -----
+ 0   order_id  3 non-null      int64
+ 1   price     3 non-null      int64
+ 2   city      3 non-null      object
+dtypes: int64(2), object(1)
+memory usage: 204.0+ bytes

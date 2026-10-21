@@ -1,0 +1,16 @@
+# -*- coding: utf-8 -*-
+# ---------------------------------------------------------------------------
+# Author   : Mohammad Reza Shakournia
+# Email    : mohammadshakournia@gmail.com
+# Book     : راهنمای جامع برنامه‌نویسی پایتون (Python Programming Guide)
+# Source   : CH04 / code02.py  |  لیست و عملیات مهم روی آن
+# Copyright (c) 2026 Mohammad Reza Shakournia. All rights reserved.
+# حقوق مادی و معنوی این اثر برای نویسنده محفوظ است.
+# ---------------------------------------------------------------------------
+
+items = ["pen", "book", "laptop", "phone"]
+
+print(items[0])
+print(items[2])
+print(items[-1])
+print(items[-2])

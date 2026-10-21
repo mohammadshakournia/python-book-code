@@ -1,0 +1,5 @@
+Epoch 50, loss = 0.2822
+Epoch 100, loss = 0.1913
+Epoch 150, loss = 0.0927
+Epoch 200, loss = 0.0721
+Test accuracy: 0.990

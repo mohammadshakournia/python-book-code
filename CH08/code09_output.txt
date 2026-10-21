@@ -1,0 +1,8 @@
+Enter a number: hello
+Please enter a valid integer.
+
+Enter a number: 0
+Division by zero is not allowed.
+
+Enter a number: 2
+5.0

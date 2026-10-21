@@ -1,0 +1,1 @@
+['pen', 'mouse', 'book', 'phone', 'laptop', 'tablet']

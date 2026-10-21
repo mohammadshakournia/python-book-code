@@ -1,0 +1,2 @@
+832040
+CacheInfo(hits=28, misses=31, maxsize=None, currsize=31)

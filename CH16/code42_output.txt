@@ -1,0 +1,2 @@
+Accuracy on training set: 1.000
+Accuracy on test set: 0.937

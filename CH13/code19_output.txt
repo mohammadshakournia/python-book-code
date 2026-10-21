@@ -1,0 +1,4 @@
+   order_id  user_id   price  name    city
+0      1001        1  120000   Ali  Tehran
+1      1002        2   85000  Sara  Tabriz
+2      1003        1   99000   Ali  Tehran

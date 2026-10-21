@@ -1,0 +1,2 @@
+sum axis=0: [5 7 9]
+sum axis=1: [ 6 15]

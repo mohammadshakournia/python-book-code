@@ -1,0 +1,3 @@
+X_new.shape: (1, 4)
+Prediction: [0]
+Predicted target name: ['setosa']

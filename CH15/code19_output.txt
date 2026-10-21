@@ -1,0 +1,4 @@
+X_train shape: (112, 4)
+y_train shape: (112,)
+X_test shape: (38, 4)
+y_test shape: (38,)

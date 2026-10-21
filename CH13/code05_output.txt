@@ -1,0 +1,6 @@
+   order_id   price    city
+0      1001  120000  Tehran
+1      1002   85000  Tabriz
+2      1003   99000  Tehran
+(5, 3)
+Index(['order_id', 'price', 'city'], dtype='object')

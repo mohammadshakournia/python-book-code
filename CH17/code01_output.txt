@@ -1,0 +1,2 @@
+Shape of training data: (426, 30)
+Shape of scaled training data: (426, 30)

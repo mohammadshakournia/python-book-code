@@ -1,0 +1,6 @@
+Enter a positive integer: hello
+Invalid input: invalid literal for int() with base 10: 'hello'
+Enter a positive integer: -3
+Invalid input: Number must be positive.
+Enter a positive integer: 5
+Accepted: 5

@@ -1,0 +1,8 @@
+product = {'name': 'Laptop', 'price': 1200, 'stock': 5}
+len(product) -> 3
+keys() -> dict_keys(['name', 'price', 'stock'])
+values() -> dict_values(['Laptop', 1200, 5])
+items() -> dict_items([('name', 'Laptop'), ('price', 1200), ('stock', 5)])
+get('price') -> 1200
+after changes -> {'name': 'Laptop', 'stock': 4, 'brand': 'Dell'}
+removed price -> 1200

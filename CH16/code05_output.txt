@@ -1,0 +1,2 @@
+Sample counts per class:
+{'malignant': 212, 'benign': 357}

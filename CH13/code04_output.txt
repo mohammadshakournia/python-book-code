@@ -1,0 +1,10 @@
+0    23
+1    19
+2    31
+3    27
+Name: age, dtype: int64
+   name    city
+0   Ali  Tehran
+1  Sara  Tabriz
+2  Reza  Shiraz
+3  Mina  Tehran

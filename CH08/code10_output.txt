@@ -1,0 +1,4 @@
+Enter a number: 4
+Calculation successful.
+2.5
+End of program.

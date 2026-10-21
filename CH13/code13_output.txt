@@ -1,0 +1,10 @@
+           price  price_num
+0         120000   120000.0
+1          85000    85000.0
+2  not_available        NaN
+3          99000    99000.0
+0    False
+1    False
+2     True
+3    False
+Name: price_num, dtype: bool

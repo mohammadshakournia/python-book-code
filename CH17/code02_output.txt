@@ -1,0 +1,2 @@
+Minimum after scaling: 0.0
+Maximum after scaling: 1.0

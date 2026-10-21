@@ -1,0 +1,5 @@
+Enter a number: hello
+Traceback (most recent call last):
+  File "C:\Users\python-book\ch08\code01.py", line 1, in <module>
+    x = int(input("Enter a number: "))
+ValueError: invalid literal for int() with base 10: 'hello'
